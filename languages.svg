@@ -134,28 +134,28 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3178c6; 
-  width: 27.187%;
+  width: 27.186%;
 " class="progress-item"></span><span style="
   background-color: #DA5B0B; 
-  width: 19.502%;
+  width: 19.500%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 9.177%;
+  width: 9.176%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
   width: 8.634%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
-  width: 7.829%;
+  width: 7.828%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 7.009%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
-  width: 5.579%;
+  width: 5.578%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 4.981%;
+  width: 4.980%;
 " class="progress-item"></span><span style="
   background-color: #5686a5; 
   width: 3.895%;
@@ -185,7 +185,7 @@ div.ellipsis {
   width: 0.235%;
 " class="progress-item"></span><span style="
   background-color: #3D6117; 
-  width: 0.157%;
+  width: 0.163%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
   width: 0.064%;
@@ -358,7 +358,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">GLSL</span>
-  <span class="percent">3.90%</span>
+  <span class="percent">3.89%</span>
 </li>
 <li style="animation-delay: 1500ms;">
   <svg 
